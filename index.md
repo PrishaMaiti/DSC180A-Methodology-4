@@ -4,7 +4,7 @@
 
 **Email:** prmaiti@ucsd.edu
 
-**Section:** D07, Prediction for Resource Allocation
+**Section:** D07, The value of prediction for resource allocation
 
 **Mentor:** Emily Aiken
 
